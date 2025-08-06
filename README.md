@@ -4,7 +4,7 @@ This repository contains various basic circuit simulations created using [Tinker
 
 ## 🔧 Projects Included
 
-### 1. Full-Wave Rectifier
+### 1. LED Connection Using Battery
 ![Full Wave](full%20wave.png)
 - Simulates a full-wave rectifier using diodes.
 - Measures AC to DC conversion using virtual oscilloscope.
@@ -13,7 +13,7 @@ This repository contains various basic circuit simulations created using [Tinker
 ![Half Wave](half%20wave.png)
 - Demonstrates half-wave rectification using a single diode.
 
-### 3. LED Connection Using Battery
+### 3. Full-Wave Rectifier
 ![LED Battery](using%20battery%20led%20connection.png)
 
 ## 🛠️ Tools Used
